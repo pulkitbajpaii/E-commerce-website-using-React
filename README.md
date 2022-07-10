@@ -1,3 +1,15 @@
+I made a basic eCommerce website in which one can see the clothes of different types, such as Jeans, Shirts,etc. 
+I choose this because I found it as a general project to implement my knowledge and other thing is that these types of websites are in demand seeing the current scenerios. I used html css Javascript and react .When i was building this project then I faced problem in filtering the datatype of clothes for eg. If I choose only Shirt option then again all clothes are showing and filter is not working.I solved this problem using map method and filter method I create a new data file where i store all types of shirts, trousers, jeansm etc .and after that i used to map method to get a desired product one by one on the screen.
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
